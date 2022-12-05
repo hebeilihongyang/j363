@@ -1,3 +1,5 @@
-public static void mian(system[]args){
-system.out.println("hello World");
+public class helloWorld {
+    public static void main(String[] args) {
+        System.out.println("hello World");
+    }
 }
