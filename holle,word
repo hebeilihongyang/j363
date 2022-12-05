@@ -1,0 +1,3 @@
+public static void mian(system[]args){
+system.out.println("holle,word");
+}
